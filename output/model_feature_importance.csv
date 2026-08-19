@@ -1,0 +1,23 @@
+feature,importance
+cat__lead_source_AI Connected band Not Interested,3.9834533251349757
+cat__lead_source_AI Connected but not Connected by TC- Set 1,3.0588275265953584
+cat__lead_source_2W3W - 3WCNG - Khanna - 3W - 17 Jul,3.040217210807083
+num__Attempted,2.9032288049872736
+cat__lead_source_2W3W - 3WAHD - Khanna - 3W - 17 Jul,2.8648477775452954
+cat__lead_source_Khanna AI,2.7821528967615246
+cat__lead_source_Single Referral > 7 days- 24th Jul,2.5707321501642726
+cat__lead_source_2W3W - 3WEV - Khanna - 3W - 17 Jul,2.3909329785976117
+num__tag_filled,1.761538544344145
+num__Connected,1.3413469935083937
+cat__lead_source_PreOb-Ob Fees Paid 29th Jul (set 1),0.7762516330915191
+num__upload_day_of_week,0.7093238726644815
+cat__lead_source_Khanna- 2W 26th Jul,0.4597372726819897
+num__upload_day,0.41919008562723814
+cat__lead_source_PreOb-Ob Fees Paid 29th Jul (set 2),0.41516096908302846
+num__upload_to_first_attempt_P50 (hrs),0.31810610908267833
+cat__lead_source_OLX - Ashwin - 2W - 17 Jul,0.2961690305552875
+cat__lead_source_infrequent_sklearn,0.29218061245102994
+num__Attempt per Lead,0.15655294596827052
+cat__lead_source_AI Connected but not Connected by TC- Set 2,0.10079247567449189
+num__Interested,0.056863921612983016
+num__Uploaded Leads,0.0
